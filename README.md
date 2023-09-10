@@ -15,6 +15,7 @@ This way is windows only.
 3. It will have a shortcut to the program on your desktop.
 
 **The .bat way.**
+
 This way is also windows only as MacOS dosen't support the .bat files.
 1.download and run it
 2.done u have downloaded it
