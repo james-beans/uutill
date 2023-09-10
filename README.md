@@ -17,6 +17,7 @@ This way is windows only.
 **The .bat way.**
 
 This way is also windows only as MacOS dosen't support the .bat files.
+
 1.download and run it
 2.done u have downloaded it
 
