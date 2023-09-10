@@ -4,3 +4,4 @@
 UUTILL is a launcher for all my most useless projects.
 UUTILL is free and one of the most beginner-friendly programs to use!
 UUTILL contains programs such as "calc" (A calculator.), "Txtfg" (Text to file gen.) and more coming very very soon!
+Mac OS support coming very very soon!
