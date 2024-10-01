@@ -1,3 +1,7 @@
+> [!CAUTION]
+> This project is my first ever coding project. It is discontinued. Do not use this.
+
+<hr>
 
 ![2023-10-21 09_28_45-code](https://github.com/0SGames/uutill/assets/112166972/83c700c6-c348-470d-b374-63ba7a2a01b9)
 
