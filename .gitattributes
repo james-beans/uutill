@@ -1,0 +1,4 @@
+# allows markdown files (*.md files) to show in the repo capsule
+*.md linguist-detectable
+# allows batch files (*.bat files) to show in the repo capsule
+*.bat linguist-detectable
